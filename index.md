@@ -8,11 +8,11 @@
 2020年1月26日15:01:20...我这个小垃圾把自己的网站做出来了（PS:其实是你@O7I2）
 
 Jekyll我假装不知道是什么东西......
+ 
+ 就这样吧
 
-就这样吧
 <blockquote>
-本站最近使用了<a href="https://jekyllrb.com/" target="_blank">Jekyll(官网,英文)</a>(<a href="https://jekyllcn.com" target="_blank">中文</a>)重写，最近才发现有Jekyll这种东西，而且Github Pages也支持<br />
-## 页面（我在悄咪咪模仿O7I2）：
-
+> 本站最近使用了<a href="https://jekyllrb.com/" target="_blank">Jekyll(官网,英文)</a>(<a href="https://jekyllcn.com" target="_blank">中文</a>)重写，最近才发现有Jekyll这种东西，而且Github Pages也支持<br />
+> 还 是 好 难！！！
 
 
