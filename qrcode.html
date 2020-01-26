@@ -1,0 +1,50 @@
+<!-- 输入框 -->
+<div>
+输入内容: 
+<input id="text" value="" placeholder="请输入文本" onchange="makeCode()" />
+<input type="button" value="生成" onclick="makeCode()" />
+</div><span id="warn" style=""></span>
+<!-- 输出 -->
+<div id="qrcode"></div>
+
+<blockquote>
+背景: #ffffff(白色)<br />
+内容: #000000(黑色)<br />
+纠错等级: H(High,高)<br />
+</blockquote>
+
+<!-- 载入 js -->
+<script src="/assets/js/qrcode/qrcode.min.js"></script>
+<script src="/assets/js/jquery/3.4.1/jquery.min.js"></script>
+<script src="/assets/js/url.js"></script>
+<script>
+var qrcode = new QRCode(document.getElementById("qrcode"), {
+	width: 250,
+	height: 250,
+	colorDark : "#000000",
+	colorLight : "#ffffff",
+	correctLevel : QRCode.CorrectLevel.H
+})
+function makeCode() {
+	var InputText = document.getElementById("text").value;
+	document.getElementById('warn').innerHTML = "";
+	if (InputText == "") {
+		document.getElementById('qrcode').style.display = "none";
+		document.getElementById('warn').innerHTML = "<strong>？</strong><br /><br /><br />";
+		return;
+	}
+	qrcode.makeCode(InputText);
+	document.getElementById('qrcode').style.display = "";
+}
+makeCode();
+
+$("#text").
+	on("blur", function () {
+		makeCode();
+	}).
+	on("keydown", function (e) {
+		if (e.keyCode == 13) {
+			makeCode();
+		}
+	});
+</script>
