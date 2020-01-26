@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!-- 修改过的Github主题 by O7I2 -->
+<html lang="zh-cn">
+<head>
+{% include head.html %}
+</head>
+<body>
+{% include header.html %}
+<!-- Body -->
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
+<!-- 一些提示 -->
+<div id="warnings">
+{% include warnings.html %}
+</div>
+{{ content }}
+</section>
+</div>
+{% include footer.html %}
+</body>
+</html>
