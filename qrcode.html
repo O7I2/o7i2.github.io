@@ -1,4 +1,5 @@
 ---
+layout: default
 title: QRcode在线生成器
 subtitle: 可以生成二维码（没啥好说的）
 ---
@@ -8,19 +9,18 @@ subtitle: 可以生成二维码（没啥好说的）
 <input id="text" value="" placeholder="请输入文本" onchange="makeCode()" />
 <input type="button" value="生成" onclick="makeCode()" />
 </div><span id="warn" style=""></span>
-<!-- 输出 -->
-<div id="qrcode"></div>
+<!-- 输出 --></div>
 
 <blockquote>
 背景: #ffffff(白色)<br />
 内容: #000000(黑色)<br />
 纠错等级: H(High,高)<br />
 </blockquote>
-
 <!-- 载入 js -->
-<script src="/assets/js/qrcode/qrcode.min.js"></script>
-<script src="/assets/js/jquery/3.4.1/jquery.min.js"></script>
-<script src="/assets/js/url.js"></script>
+<script src="https://o7i2.github.io/assets/js/qrcode/qrcode.min.js"></script>
+<script src="https://o7i2.github.io/assets/js/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://o7i2.github.io/assets/js/url.js"></script>
+<div id="qrcode">
 <script>
 var qrcode = new QRCode(document.getElementById("qrcode"), {
 	width: 250,
