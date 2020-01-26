@@ -1,5 +1,5 @@
 ## 欢迎光临   CHINQ 无名博客
-欢迎关注我的bilibili首页>>>https://space.bilibili.com/341532844
+欢迎关注我的[bilibili首页](https://space.bilibili.com/341532844)
   
   
 @O7I2 hey man
@@ -10,6 +10,9 @@
 Jekyll我假装不知道是什么东西......
 
 就这样吧
-## 页面（我在悄咪咪模仿O7I2）
+<blockquote>
+本站最近使用了<a href="https://jekyllrb.com/" target="_blank">Jekyll(官网,英文)</a>(<a href="https://jekyllcn.com" target="_blank">中文</a>)重写，最近才发现有Jekyll这种东西，而且Github Pages也支持<br />
+## 页面（我在悄咪咪模仿O7I2）：
+
 
 
