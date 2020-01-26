@@ -1,7 +1,9 @@
+layout:default
 ---
-title: QRcode在线生成器
-subtitle: 可以生成二维码（没啥好说的）
+title: 在线二维码生成器
+subtitle: （没啥好说的）
 ---
+
 <!-- 输入框 -->
 <div>
 输入内容: 
@@ -18,9 +20,9 @@ subtitle: 可以生成二维码（没啥好说的）
 </blockquote>
 
 <!-- 载入 js -->
-<script src="/assets/js/qrcode/qrcode.min.js"></script>
-<script src="/assets/js/jquery/3.4.1/jquery.min.js"></script>
-<script src="/assets/js/url.js"></script>
+<script src="https://o7i2.github.io/assets/js/qrcode/qrcode.min.js"></script>
+<script src="https://o7i2.github.io/assets/js/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://o7i2.github.io/assets/js/url.js"></script>
 <script>
 var qrcode = new QRCode(document.getElementById("qrcode"), {
 	width: 250,
@@ -29,16 +31,25 @@ var qrcode = new QRCode(document.getElementById("qrcode"), {
 	colorLight : "#ffffff",
 	correctLevel : QRCode.CorrectLevel.H
 })
+var input_cookie = getCookie("qrcode_input");
+var url_content = Request("text");
 function makeCode() {
 	var InputText = document.getElementById("text").value;
 	document.getElementById('warn').innerHTML = "";
 	if (InputText == "") {
+		setCookie("qrcode_input","",-1);
 		document.getElementById('qrcode').style.display = "none";
 		document.getElementById('warn').innerHTML = "<strong>？</strong><br /><br /><br />";
 		return;
 	}
 	qrcode.makeCode(InputText);
 	document.getElementById('qrcode').style.display = "";
+	setCookie("qrcode_input",InputText);
+}
+if (url_content != "") {
+	document.getElementById('text').value = url_content;
+} else if (input_cookie != "") {
+	document.getElementById('text').value = input_cookie;
 }
 makeCode();
 
@@ -52,3 +63,5 @@ $("#text").
 		}
 	});
 </script>
+</section>
+</div>
