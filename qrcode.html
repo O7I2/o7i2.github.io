@@ -36,7 +36,7 @@ function makeCode() {
 	document.getElementById('warn').innerHTML = "";
 	if (InputText == "") {
 		document.getElementById('qrcode').style.display = "none";
-		document.getElementById('warn').innerHTML = "<strong>？</strong><br /><br /><br />";
+		document.getElementById('warn').innerHTML = "<strong>无</strong><br /><br /><br />";
 		return;
 	}
 	qrcode.makeCode(InputText);
