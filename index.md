@@ -16,6 +16,6 @@ Jekyll我假装不知道是什么东西......
 >还 是 好 难！！！
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
-STEAM游戏区：不定时更新游戏（<a href="https://chinqblog.github.io/game-world.github.io/">链接</a>）
+STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 
 
