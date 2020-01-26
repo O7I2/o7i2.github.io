@@ -24,6 +24,8 @@ Jekyll我假装不知道是什么东西......
 STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 
 二维码（QRCODE）生成器：（<a href="/qrcode">链接</a>）
+
+CPS测试器：（<a href="/cps">链接</a>）
 ## 必应（Bing）每日壁纸
 图片版权请前往<a href="https://cn.bing.com" target="_blank">Bing</a>官方网站查看
 
