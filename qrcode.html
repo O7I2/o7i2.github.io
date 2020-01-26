@@ -13,45 +13,18 @@ footer: "QRcode.js's <a href=\"https://github.com/davidshimjs/qrcodejs\" target=
 <!-- 输出 -->
 <div id="qrcode"></div>
 
+<!-- 这边你打了两个回车
+	 我来说明一下
+	 Markdown是两个空格是回车
+	 HTML是<br>是回车
+	 Markdown两个回车是新建一个段 -->
 <blockquote>
 背景: #ffffff(白色)<br />
-
 内容: #000000(黑色)<br />
-
 纠错等级: H(High,高)<br />
 </blockquote>
 
 <!-- 载入 js -->
 <script src="https://o7i2.github.io/assets/js/qrcode/qrcode.min.js"></script>
 <script src="https://o7i2.github.io/assets/js/jquery/3.4.1/jquery.min.js"></script>
-<script>
-var qrcode = new QRCode(document.getElementById("qrcode"), {
-	width: 250,
-	height: 250,
-	colorDark : "#000000",
-	colorLight : "#ffffff",
-	correctLevel : QRCode.CorrectLevel.H
-})
-function makeCode() {
-	var InputText = document.getElementById("text").value;
-	document.getElementById('warn').innerHTML = "";
-	if (InputText == "") {
-		document.getElementById('qrcode').style.display = "none";
-		document.getElementById('warn').innerHTML = "<strong>您当前并未生成任何二维码，请输入文本后点击生成，让那卡哇伊的二维码出现吧~</strong><br /><br /><br />";
-		return;
-	}
-	qrcode.makeCode(InputText);
-	document.getElementById('qrcode').style.display = "";
-}
-makeCode();
-
-$("#text").
-	on("blur", function () {
-		makeCode();
-	}).
-	on("keydown", function (e) {
-		if (e.keyCode == 13) {
-			makeCode();
-		}
-	});
-</script>
+<script src="https://o7i2.github.io/assets/js/i/qrcodes.js"></script>
