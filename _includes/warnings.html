@@ -1,0 +1,21 @@
+<!-- 低于IE11提示 -->
+<!--[if lte IE 10]>
+<div id="ie-must-go-die" class="warnbox">
+<strong>您正在IE的世界中</strong><br />
+“姐姐，我们也曾经在这个世界中绽放光彩呢”，33说道。<br />
+“可是啊，世界永远在变幻，正因如此，未来才变得绚烂。我们也不能裹足不前呢。”<br />
+“嗯。”33点点头，眼中流露出了一丝希冀的神采。<br />
+推荐您更新至最新的Internet Explorer 11<br />或者下载
+<a href="//firefox.com" target="_blank">Firefox</a>
+<a href="//google.cn/chrome" target="_blank">Chrome</a>
+<a href="//www.microsoft.com/edge" target="_blank">Edge</a>
+等现代浏览器后再次访问本页面</div>
+<[end if]-->
+<!-- 未加载JavaScript提示 -->
+<div id="nojs" class="warnbox">
+<strong>未启用JavaScript</strong><br />
+或JavaScript无法正确运行 - 这可能导致部分元素无法正确显示；某些功能无法使用</div>
+<script>
+//if (window.ActiveXObject != undefined && window.navigator.userAgent.indexOf("MSIE") != -1) {document.getElementById('ie-must-go-die').style.display = ""};
+document.getElementById('nojs').style.display = "none";
+</script>
