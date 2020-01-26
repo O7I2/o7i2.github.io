@@ -1,17 +1,16 @@
-<!DOCTYPE html>
 <!-- HTML5声明，虽然这个网站其实是用XHTML写的... -->
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8" />
-<meta name="description" content="O7I2的个人小站, O7I2的小站" />
-<meta name="keywords" content="O7I2, XP-Play, 博客, 纯属娱乐, ">
+<meta name="description" content="CHINQ的个人小站, CHINQ的小站" />
+<meta name="keywords" content="CHINQ, CHINQblog, 博客, 纯属娱乐, ">
 <!-- user-scalable=no | 不可缩放
 	 maximum-scale=1.0 | 最大缩放
 	 minimum-scale=1.0 | 最小缩放
 	 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	 -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>主页 | O7I2的个人小站</title>
+<title>主页 | CHINQ的个人小站</title>
 <!-- 加载 CSS -->
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
@@ -24,9 +23,9 @@
 <!-- Header -->
 <div id="header_wrap" class="outer">
 <header class="inner">
-<a id="me" href="https://space.bilibili.com/393815403" target="_blank" class="sl">哔哩哔哩</a>
+<a id="me" href="https://space.bilibili.com/341532844" target="_blank" class="sl">bilibili</a>
 <h1 id="page_title">主页</h1>
-<h2 id="page_subtitle">O7I2的小站</h2>
+<h2 id="page_subtitle">CHINQ的小站</h2>
 </header>
 </div>
 <!-- Body -->
@@ -56,8 +55,8 @@ if (window.ActiveXObject != undefined && window.navigator.userAgent.indexOf("MSI
 document.getElementById('nojs').style.display = "none";
 </script>
 </div>
-<h1>O7I2的小站</h1>
-<p>你好，<span id="username" ondblclick="this.innerHTML=username('reset')" title="双击以修改">Username</span> 你的IP是<span id="ip" onmouseenter="this.innerHTML=ip;" onmouseout="this.innerHTML=ip_2">IPv4 Address</span> 位置是<span id="location">Country</span>，欢迎来到O7I2的小站</p> 
+<h1>CHINQ的小站</h1>
+<p>你好，<span id="username" ondblclick="this.innerHTML=username('reset')" title="双击以修改">Username</span> 你的IP是<span id="ip" onmouseenter="this.innerHTML=ip;" onmouseout="this.innerHTML=ip_2">IPv4 Address</span> 位置是<span id="location">Country</span>，欢迎来到CHINQ的小站</p> 
 <blockquote>
 本站最近使用了<a href="https://jekyllrb.com/" target="_blank">Jekyll(官网,英文)</a>(<a href="https://jekyllcn.com" target="_blank">中文</a>)重写，最近才发现有Jekyll这种东西，而且Github Pages也支持<br />
 </blockquote>
@@ -71,10 +70,10 @@ UserAgent: "<span id="useragent">???</span>"</p>
 function changeTitle(num) {
 var title_id = document.getElementById('page_subtitle');
 var random;
-	if (num == 1) {random = "XP-Play的闲聊网站"};
-	if (num == 2) {random = "XP-Play的 Github Pages"};
-	if (num == 3) {random = "View on <a href=\"https://space.bilibili.com/393815403\">哔哩哔哩</a>!"};
-	if (num == 4) {random = "XP-Play的静态页面"};
+	if (num == 1) {random = "CHINQblog的闲聊网站"};
+	if (num == 2) {random = "CHINQblog的 Github Pages"};
+	if (num == 3) {random = "View on <a href=\"https://space.bilibili.com/341532844\">哔哩哔哩</a>!"};
+	if (num == 4) {random = "CHINQblog的静态页面"};
 	if (num == 5) {random = "When you could see this, that means you enabled the JavaScript"};
 		var day, day_info;
 	switch (new Date().getDay()) {
