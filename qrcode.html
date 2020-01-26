@@ -37,7 +37,7 @@ function makeCode() {
 	document.getElementById('warn').innerHTML = "";
 	if (InputText == "") {
 		document.getElementById('qrcode').style.display = "none";
-		document.getElementById('warn').innerHTML = "<strong>无</strong><br /><br /><br />";
+		document.getElementById('warn').innerHTML = "<strong>您当前并未生成任何二维码，请输入文本后点击生成，让那卡哇伊的二维码出现吧~</strong><br /><br /><br />";
 		return;
 	}
 	qrcode.makeCode(InputText);
