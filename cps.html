@@ -3,7 +3,6 @@ layout: default
 title: CPS测试
 subtitle: CPS测试（你的手速有多快？）
 ---
-</div>
 <div id="pre">
 你的CPS是: <span id="cps">还未测试</span><br />
 <button onclick="start()">开始测试</button><br />
@@ -13,55 +12,4 @@ subtitle: CPS测试（你的手速有多快？）
 <input id="clickbtn" type="button" style="width:800px;height:200px;" onclick="clicked()" value="点击我！"/>
 </div>
 <p>CPS指一秒内一共点击的次数<br />为得到准确的数值，此测试器通过取10秒内所有点击次数除以10得出的数来得到你的CPS</p>
-<script>
-// 初始化变量
-var clicks,sec,left;
-// 点击计数
-function clicked() {
-	// 计数到变量 clicks
-	window.clicks += 1;
-	// 显示点击次数
-	document.getElementById('clickeds').innerHTML = clicks;
-	// 如果倒计时还没有开始，那就开始
-	if (left == null) {window.left = setInterval("secs()",1000)};
-}
-// 计时器 10秒
-function secs() {
-	// 减1秒
-	window.sec += -1;
-	// 显示还剩多少秒
-	document.getElementById('secleft').innerHTML = sec;
-	// 判断是否结束
-	if (window.sec == 0) {
-		// 停止循环
-		clearInterval(left);
-		window.left = null;
-		// 执行结束函数
-		end();
-	}
-}
-// 开始初始化
-function start() {
-	// 初始化点击次数与倒计时
-	window.clicks = 0;
-	window.sec = 10;
-	// 切换UI
-	document.getElementById('pre').style.display = "none";
-	document.getElementById('testing').style.display = "";
-	// 初始化UI
-	document.getElementById('secleft').innerHTML = sec;
-	document.getElementById('clickeds').innerHTML = "0";
-}
-// 结束
-function end() {
-	// 算出平均CPS
-	window.cps = clicks / 10;
-	// 切换UI
-	document.getElementById('testing').style.display = "none";
-	document.getElementById('pre').style.display = "";
-	// 显示结果
-	document.getElementById('cps').innerHTML = cps;
-}
-</script>
-</section>
-</div>
+<script src="https://o7i2.github.io/assets/js/i/cps.js"></script>
