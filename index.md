@@ -6,6 +6,9 @@ subtitle: CHINQ
 ## 欢迎光临   CHINQ 无名博客
 <del>咱也不知道写什么，咱也不敢说</del><br>
 欢迎关注我的<a href="https://space.bilibili.com/341532844">【BILIBILI首页】</a>
+
+
+也欢迎关注我的Youtube<a href="https://www.youtube.com/channel/UCQzzMjMBa9Z3REpdIYaUa7g?view_as=subscriber" target="_blank"><img src="https://sm.ms/image/cyWKogeYMFfBITV" alt="Youtube" title style></a>
   
   
 @O7I2 hey   man
