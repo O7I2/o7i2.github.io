@@ -25,6 +25,8 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
+Base64在线转换：（<a href="base64">链接</a>）
+ 
 留言板：（<a href="talk">链接</a>）
  
  Markdown帮助文档：（<a href="md">链接</a>）
@@ -93,7 +95,7 @@ STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 
 ## 那些我当年认识的dalao们（友联）
 
-O7I2:一个低调WED前端开发人员>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
+O7I2:一位卑微的小学生（雾）>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
 
 <del>CHINQ:划掉</del><br>
 
