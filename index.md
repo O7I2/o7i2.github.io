@@ -75,3 +75,9 @@ STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 ## ————————————————————————
 
 <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=4wz5xqgf"><img class="alignnone size-full wp-image-195" src="https://zihangu.com/wp-content/uploads/2019/03/600x300.png" alt width="600" height="300"></a>
+
+<div class="fill"><img style="transform: rotateY(180deg)" src="https://atlinker.cn/theme/funny.png"><div class="cardA"><div class="boxA translateA"><div class="fillA"><div id="nb" class="bubble">博主高三了少更文了QAQ</div>
+
+
+
+
