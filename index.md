@@ -70,7 +70,7 @@ STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 ## 必应（Bing）每日壁纸
 图片版权请前往<a href="https://cn.bing.com" target="_blank">Bing</a>官方网站查看
 
-<a href="https://open.saintic.com/api/bingPic/" target="_blank"><img src="https://open.saintic.com/api/bingPic/" alt="必应每日壁纸" title style></a>
+<a href="https://open.saintic.com/api/bingPic/" target="_blank"><img src="https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN" alt="必应每日壁纸" title style></a>
 
 必应（Bing）官方API:<a href="https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN" target="_blank">链接</a>
 
