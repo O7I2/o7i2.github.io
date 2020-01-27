@@ -35,6 +35,8 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## PDF区
 
+>这玩意可是我花了好长时间Ctrl+c and Ctrl+v过来占空间22MB的巨婴<br>
+
 （<a href="tools/pdf">链接</a>）
 
 ## BING区
