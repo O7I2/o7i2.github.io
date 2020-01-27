@@ -35,7 +35,7 @@ CPS测试器：（<a href="/cps">链接</a>）
 
 ## PDF区
 
-（<a href="/bing">链接</a>）
+（<a href="/pdf">链接</a>）
 
 ## BING区
 
