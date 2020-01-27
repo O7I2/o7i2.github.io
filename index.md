@@ -26,6 +26,10 @@ Jekyll我假装不知道是什么东西......
 
 CPS测试器：（<a href="/cps">链接</a>）
 
+## BING区
+
+（<a href="/bing">链接</a>）
+
 ## 游戏区
 
 STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
