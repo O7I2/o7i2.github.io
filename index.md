@@ -33,6 +33,10 @@ Jekyll我假装不知道是什么东西......
 
 CPS测试器：（<a href="/cps">链接</a>）
 
+## PDF区
+
+（<a href="/bing">链接</a>）
+
 ## BING区
 
 （<a href="/bing">链接</a>）
