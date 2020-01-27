@@ -21,11 +21,21 @@ Jekyll我假装不知道是什么东西......
 >还 是 好 难！！！
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
-STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 
 二维码（QRCODE）生成器：（<a href="/qrcode">链接</a>）
 
 CPS测试器：（<a href="/cps">链接</a>）
+
+##游戏区
+
+STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
+
+Minecraft区：（<a href="/minecraft">链接</a>）
+
+##Blog(博客)：（<a href="/blog">链接</a>）
+
+推荐：看了十分钟抖音,我觉得自己像是一个工具
+
 ## 必应（Bing）每日壁纸
 图片版权请前往<a href="https://cn.bing.com" target="_blank">Bing</a>官方网站查看
 
