@@ -1,0 +1,1 @@
+var passwd = "CHINQ86821426";
