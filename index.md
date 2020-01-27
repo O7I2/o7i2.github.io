@@ -63,8 +63,6 @@ STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 </label>
 
 <a class="button" href="https://chinqblog.github.io" target="_blank">搜索</a>
-
-<input type="submit" class="search-submit" value="搜索">
 </form>
 
 ##      人生的真理
