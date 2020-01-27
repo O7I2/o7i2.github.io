@@ -92,6 +92,21 @@ STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 <a class="button" href="https://chinqblog.github.io" target="_blank">搜索</a>
 </form>
 
+## 那些我当年认识的dalao们（友联）
+
+O7I2:一个低调WED前端开发人员>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
+
+<del>CHINQ:划掉</del><br>
+
+ZihanGu:网站开发人员（真正的dalao）>>><a href="https://zihangu.com" target="_blank">Concern Ta</a><br>
+
+虛度巛光陰：刘明帅 – 热爱生活！>>><a href="https://lmshuai.com/" target="_blank">Concern Ta</a><br>
+
+kindyear：kindyear’s blog – 杂乱的技术小站>>><a href="https://www.kindyear.cn/" target="_blank">Concern Ta</a><br>
+
+BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xyz/" target="_blank">Concern Ta</a><br>
+
+
 ##      人生的真理
             因为挚爱，所以热爱
 
