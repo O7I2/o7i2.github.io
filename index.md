@@ -53,10 +53,6 @@ SystemsOffline：（<a href="games/SystemsOffline/index.html">链接</a>）<a hr
 
 猜数字：（<a href="games/caishuzi.html">链接</a>）<a href="http://www.codesc.net/jscss/3427.shtml">JS</a>
 
-推箱子：（<a href="games/pushkoro.html">链接</a>）
-
-泡泡堂：（<a href="games/bubble-shooter.html">链接</a>）
-
 贪吃蛇：（<a href="games/snake.html">链接</a>）
 
 FlyBird:（<a href="games/index.html">链接</a>）
