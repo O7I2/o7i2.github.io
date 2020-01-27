@@ -45,9 +45,9 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## 游戏区
 
-强力推荐：OnOff:（<a href="games/OnOff/index.html">链接</a>）
+强力推荐：OnOff:（<a href="games/OnOff/index.html">链接</a>）<a href="https://github.com/starzonmyarmz/js13k-2018">Github</a>
 
-Offline Paradise：（<a href="games/op/index.html">链接</a>）
+Offline Paradise：（<a href="games/op/index.html">链接</a>）<a href="https://github.com/sirxemic/js13k-game">Github</a>
 
 推箱子：（<a href="games/pushkoro.html">链接</a>）
 
