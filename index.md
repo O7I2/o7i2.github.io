@@ -80,7 +80,7 @@ STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 <div class="cardA">
 <div class="boxA translateA">
 <div class="fillA">
-<div id="nb" class="bubble">博主高三了少更文了QAQ</div>
+<div id="nb" class="bubble">QAQ滑稽</div>
 
 
 
