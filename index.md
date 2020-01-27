@@ -45,6 +45,8 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## 游戏区
 
+推箱子：（<a href="games/pushkoro.html">链接</a>）
+
 泡泡堂：（<a href="games/bubble-shooter.html">链接</a>）
 
 贪吃蛇：（<a href="games/snake.html">链接</a>）
