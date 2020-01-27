@@ -13,10 +13,6 @@
 等现代浏览器后再次访问本页面</div>
 <[end if]-->
 <!-- 未加载JavaScript提示 -->
-<div id="nojs" class="warnbox">
+<noscript><div class="warnbox">
 <strong>未启用JavaScript</strong><br />
-或JavaScript无法正确运行 - 这可能导致部分元素无法正确显示；某些功能无法使用</div>
-<script>
-//if (window.ActiveXObject != undefined && window.navigator.userAgent.indexOf("MSIE") != -1) {document.getElementById('ie-must-go-die').style.display = ""};
-document.getElementById('nojs').style.display = "none";
-</script>
+或JavaScript无法正确运行 - 这可能导致部分元素无法正确显示；某些功能无法使用</div></noscript>
