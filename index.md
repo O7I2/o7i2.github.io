@@ -51,7 +51,7 @@ Offline Paradise：（<a href="games/op/index.html">链接</a>）<a href="https:
 
 SystemsOffline：（<a href="games/SystemsOffline/index.html">链接</a>）<a href="https://github.com/eschatonic/SystemsOffline">Github</a>
 
-
+猜数字：（<a href="games/caishuzi.html">链接</a>）<a href="http://www.codesc.net/jscss/3427.shtml">JS</a>
 
 推箱子：（<a href="games/pushkoro.html">链接</a>）
 
