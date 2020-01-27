@@ -45,7 +45,7 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## 游戏区
 
-FlyBird:（<a href="/index.html">链接</a>）
+FlyBird:（<a href="games/index.html">链接</a>）
 
 扫雷：（<a href="saolei">链接</a>）
 
