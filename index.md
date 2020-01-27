@@ -47,7 +47,7 @@ CPS测试器：（<a href="cps">链接</a>）
 
 强力推荐：OnOff:（<a href="games/OnOff/index.html">链接</a>）
 
-Offline Paradise：（<a href="games/OfflineParadise/index.html">链接</a>）
+Offline Paradise：（<a href="games/op/index.html">链接</a>）
 
 推箱子：（<a href="games/pushkoro.html">链接</a>）
 
