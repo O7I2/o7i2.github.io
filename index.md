@@ -25,27 +25,27 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
-留言板：（<a href="/talk">链接</a>）
+留言板：（<a href="talk">链接</a>）
  
- Markdown帮助文档：（<a href="/md">链接</a>）
+ Markdown帮助文档：（<a href="md">链接</a>）
 
-二维码（QRCODE）生成器：（<a href="/qrcode">链接</a>）
+二维码（QRCODE）生成器：（<a href="qrcode">链接</a>）
 
-CPS测试器：（<a href="/cps">链接</a>）
+CPS测试器：（<a href="cps">链接</a>）
 
 ## PDF区
 
-（<a href="/pdf">链接</a>）
+（<a href="tools/pdf">链接</a>）
 
 ## BING区
 
-（<a href="/bing">链接</a>）
+（<a href="tools/bing">链接</a>）
 
 ## 游戏区
 
-STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
+STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 
-## Blog(博客)：（<a href="/blog">链接</a>）
+## Blog(博客)：（<a href="blog">链接</a>）
 
 推荐：看了十分钟抖音,我觉得自己像是一个工具
 
