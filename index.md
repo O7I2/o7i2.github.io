@@ -62,6 +62,8 @@ STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 搜索：</span><input type="search" class="search-field" placeholder="搜索…" value name="s">
 </label>
 
+<a class="button" href="https://chinqblog.github.io" target="_blank">搜索</a>
+
 <input type="submit" class="search-submit" value="搜索">
 </form>
 
