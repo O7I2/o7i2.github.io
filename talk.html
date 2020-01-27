@@ -3,26 +3,20 @@ layout: default
 title: 留言板
 subtitle: 给CHINQ提供建议
 ---
-</div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<link rel="stylesheet" href="/assets/js/gitalk/1.5.0/gitalk.css" />
+<script src="/assets/js/gitalk/1.5.0/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+if (location.href != "https://o7i2.github.io/p/message") {location.href = "message"};
+var gitalk = new Gitalk({
+  clientID: 'c5c3854a7eeab17e63ee',
+  clientSecret: '83a8794b373e7600a5cb7957432225899e41e133',
+  repo: 'xp-play.github.io',
+  owner: 'XP-Play',
+  admin: ['XP-Play'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
 
-  <!-- or -->
-
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <div id="gitalk-container"></div>
-  const gitalk = new Gitalk({
-    clientID: 'GitHub Application Client ID',
-    clientSecret: 'GitHub Application Client Secret',
-    repo: 'GitHub repo',
-    owner: 'GitHub repo owner',
-    admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
-    id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-  
-  gitalk.render('gitalk-container')
-  
-</section>
-</div>
+gitalk.render('gitalk-container');
+</script>
