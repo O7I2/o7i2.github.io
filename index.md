@@ -73,7 +73,3 @@ Minecraft区：（<a href="/minecraft">链接</a>）
 ## ————————————————————————
 
 <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=4wz5xqgf"><img class="alignnone size-full wp-image-195" src="https://zihangu.com/wp-content/uploads/2019/03/600x300.png" alt width="600" height="300"></a>
-
-
-
-<canvas id="live2d" width="280" height="250" class="live2d" style="opacity: 1;">
