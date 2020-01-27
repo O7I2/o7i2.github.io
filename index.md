@@ -30,8 +30,6 @@ CPS测试器：（<a href="/cps">链接</a>）
 
 STEAM游戏区：不定时更新游戏（<a href="/steam-games">链接</a>）
 
-Minecraft区：（<a href="/minecraft">链接</a>）
-
 ## Blog(博客)：（<a href="/blog">链接</a>）
 
 推荐：看了十分钟抖音,我觉得自己像是一个工具
