@@ -51,3 +51,16 @@ Minecraft区：（<a href="/minecraft">链接</a>）
 
 <a href="https://bing.ioliu.cn/" target="_blank">必应壁纸</a>  BY  <a href="https://ioliu.cn/" target="_blank">云淡风轻</a>
 
+## 在我的小破站搜索
+
+<form role="search" method="get" class="search-form" action="https://chinqblog.github.io/">
+
+<label>
+<span class="screen-reader-text">
+搜索：</span><input type="search" class="search-field" placeholder="搜索…" value name="s">
+</label>
+
+<input type="submit" class="search-submit" value="搜索">
+</form>
+</section>
+
