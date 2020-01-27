@@ -63,6 +63,9 @@ Minecraft区：（<a href="/minecraft">链接</a>）
 <input type="submit" class="search-submit" value="搜索">
 </form>
 
+## 人生的真理
+还行
+
 ## ————————————————————————
 
 ## 阿里云推广（马云打钱！）
