@@ -45,6 +45,8 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## 游戏区
 
+泡泡堂：（<a href="games/bubble-shooter.html">链接</a>）
+
 贪吃蛇：（<a href="games/snake.html">链接</a>）
 
 FlyBird:（<a href="games/index.html">链接</a>）
