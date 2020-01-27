@@ -51,7 +51,7 @@ Minecraft区：（<a href="/minecraft">链接</a>）
 
 <a href="https://bing.ioliu.cn/" target="_blank">必应壁纸</a>  BY  <a href="https://ioliu.cn/" target="_blank">云淡风轻</a>
 
-## 在我的小破站搜索
+## 在我的小破站搜索（可能没有用处，第一次做...）
 
 <form role="search" method="get" class="search-form" action="https://chinqblog.github.io/">
 
@@ -62,5 +62,11 @@ Minecraft区：（<a href="/minecraft">链接</a>）
 
 <input type="submit" class="search-submit" value="搜索">
 </form>
-</section>
 
+## ————————————————————————
+
+## 阿里云推广（马云打钱！）
+
+## ————————————————————————
+
+<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=4wz5xqgf"><img class="alignnone size-full wp-image-195" src="https://zihangu.com/wp-content/uploads/2019/03/600x300.png" alt width="600" height="300"></a>
