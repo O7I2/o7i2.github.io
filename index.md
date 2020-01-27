@@ -4,6 +4,7 @@ title: 主页
 subtitle: CHINQ
 ---
 ## 欢迎光临   CHINQ 无名博客
+<del>咱也不知道写什么，咱也不敢说</del><br>
 欢迎关注我的<a href="https://space.bilibili.com/341532844">【BILIBILI首页】</a>
   
   
