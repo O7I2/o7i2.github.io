@@ -25,7 +25,7 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
-Base64在线转换：（<a href="base64">链接</a>）
+Base64在线转换：（<a href="tools/base64.html">链接</a>）
  
 留言板：（<a href="talk">链接</a>）
  
