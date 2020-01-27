@@ -45,6 +45,8 @@ CPS测试器：（<a href="cps">链接</a>）
 
 ## 游戏区
 
+扫雷：（<a href="saolei">链接</a>）
+
 STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 
 ## Blog(博客)：（<a href="blog">链接</a>）
