@@ -25,6 +25,8 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
+让我帮你百度一下（<a href="baiduso/so.html">链接</a>）
+
 相册：（<a href="/img.html">链接</a>） （<a href="https://www.jb51.net/html5/704463.html">JS</a>）
 
 白给专区：（<a href="/baigei.html">链接</a>）
