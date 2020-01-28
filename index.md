@@ -97,7 +97,7 @@ STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 
 ## 那些我当年认识的dalao们（友联）
 
-O7I2:一位卑微的小学生（雾）>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
+O7I2:一位卑微的小学生<del>（雾）</del>>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
 
 <del>CHINQ:划掉</del><br>
 
