@@ -128,3 +128,4 @@ BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xy
 <div class="boxA translateA">
 <div class="fillA">
 <div id="nb" class="bubble">QAQ滑稽</div>
+<a href="javascript: scroll(0, 0)">返回顶部</a>
