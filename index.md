@@ -25,6 +25,8 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
+相册：（<a href="/img.html">链接</a>）
+
 白给专区：（<a href="/baigei.html">链接</a>）
 
 Base64在线转换：（<a href="tools/base64.html">链接</a>）
