@@ -128,9 +128,3 @@ BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xy
 <div class="boxA translateA">
 <div class="fillA">
 <div id="nb" class="bubble">QAQ滑稽</div>
-
-function pageScroll() { 
-window.scrollBy(0,-10); 
-scrolldelay = setTimeout('pageScroll()',100); 
-} 
-<a href="pageScroll();">返回顶部</a>
