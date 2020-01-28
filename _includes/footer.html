@@ -9,16 +9,9 @@
 <p id="about">
 <p></p>
 <p>你好！IP是<span id="ip" onmouseover="this.innerHTML=ip" onmouseout="this.innerHTML=ip_2">未知IP</span>(<span id="location"></span>)的<span id="browser">未知浏览器</span>用户<span id="username" ondblclick="this.innerHTML=username('set')" title="双击修改名字">未知用户</span></p>
-<script src="/assets/js/browsers.js"></script>
+<script src="https://o7i2.github.io/assets/js/browsers.js"></script>
 <script src="https://pv.sohu.com/cityjson?ie=utf-8"></script>
-<script>
-var ip = returnCitySN["cip"];
-var ip_2 = ip.slice(0,ip.slice(0,ip.lastIndexOf(".")).lastIndexOf("."))+ip.slice(ip.slice(0,ip.slice(0,ip.lastIndexOf(".")).lastIndexOf(".")).length,ip.length).replace(/[0-9]/g,"*");
-document.getElementById('browser').innerHTML = getBrowser();
-document.getElementById('ip').innerHTML = ip_2;
-document.getElementById('username').innerHTML = username();
-document.getElementById('location').innerHTML = returnCitySN["cname"] + "," + returnCitySN["cid"];
-</script>
+<script src="https://o7i2.github.io/assets/js/i/userinfo.js"></script>
 | By <a href="https://github.com/CHINQblog" target="_blank">CHINQ</a> | <a href="https://space.bilibili.com/341532844" target="_blank">B站</a> | <a href="https://www.youtube.com/channel/UCQzzMjMBa9Z3REpdIYaUa7g?view_as=subscriber" target="_blank">Youtube</a> |<br>
 | 部分元素(css,js,文字,图片)来自Internet |<br />| Hosted on <a href="https://pages.github.com" target="_blank">Github Pages</a> | Powered by <a href="https://jekyllrb.com/" target="_blank">Jek</a><a href="https://jekyllcn.com/" target="_blank">yll</a> <!--& <a href="//o7i2.github.io">O7I2</a> -->|
 </p>
