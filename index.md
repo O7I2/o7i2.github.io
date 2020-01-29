@@ -44,6 +44,8 @@ Base64在线转换：（<a href="tools/base64.html">链接</a>）
 
 CPS测试器：（<a href="cps">链接</a>）
 
+长链接转短链接：（<a href="https://nw5.cc/qt4z7">链接</a>）（我直接贴网址好了...） 来自（<a href="https://www.kindyear.cn">链接</a>）
+
 ## PDF区
 
 >这玩意可是我花了好长时间Ctrl+c and Ctrl+v过来占空间22MB的巨婴<br>
