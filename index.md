@@ -99,7 +99,7 @@ STEAM游戏区：不定时更新游戏（<a href="steam-games">链接</a>）
 
 ## 那些我当年认识的dalao们（友联）
 
-O7I2:一位卑微的小学生<del>（雾）</del>>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
+O7I2:一傻逼小学生>>><a href="https://o7i2.github.io/" target="_blank">Concern Ta</a><br>
 
 <del>CHINQ:划掉</del><br>
 
@@ -113,13 +113,10 @@ BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xy
 
 
 ##      人生的真理
-            因为挚爱，所以热爱
-
-## ————————————————————————
-
+```
+因为挚爱，所以热爱
+```
 ## 阿里云推广（马云打钱！）
-
-## ————————————————————————
 
 <a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=4wz5xqgf"><img class="alignnone size-full wp-image-195" src="https://zihangu.com/wp-content/uploads/2019/03/600x300.png" alt width="600" height="300"></a>
 
