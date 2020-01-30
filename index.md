@@ -147,3 +147,5 @@ BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xy
 <a class="button" href="javascript: scroll(0, 0)" target="_blank">回到顶部</a>
 <canvas class="fireworks" style="position:fixed;left:0;top:0;z-index:99999999;pointer-events:none;"></canvas>
 <script type="text/javascript" src="1.js"></script>
+
+<script type="text/javascript" src="//js.users.51.la/20613787.js"></script>
