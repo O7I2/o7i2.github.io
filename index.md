@@ -28,23 +28,16 @@ Jekyll我假装不知道是什么东西......
 
 ## 页面（我绝对不会告诉你我在模仿O7I2）：
 
-让我帮你百度一下（<a href="baiduso/so.html">链接</a>）
-
-相册：（<a href="/img.html">链接</a>） （<a href="https://www.jb51.net/html5/704463.html">JS</a>）
-
-白给专区：（<a href="/baigei.html">链接</a>）
-
-Base64在线转换：（<a href="tools/base64.html">链接</a>）
- 
-留言板：（<a href="talk">链接</a>）
- 
- Markdown帮助文档：（<a href="md">链接</a>）
-
-二维码（QRCODE）生成器：（<a href="qrcode">链接</a>）
-
-CPS测试器：（<a href="cps">链接</a>）
-
-长链接转短链接：（<a href="https://nw5.cc">链接</a>）（我直接贴网址好了...） 来自（<a href="https://www.kindyear.cn">链接</a>）
+让我帮你百度一下（<a href="baiduso/so.html">链接</a>）  
+相册：（<a href="/img.html">链接</a>） （<a href="https://www.jb51.net/html5/704463.html">JS</a>）  
+白给专区：（<a href="/baigei.html">链接</a>）  
+Base64在线转换：（<a href="tools/base64.html">链接</a>）  
+留言板：（<a href="talk">链接</a>）  
+ Markdown帮助文档：（<a href="md">链接</a>）  
+二维码（QRCODE）生成器：（<a href="qrcode">链接</a>）  
+CPS测试器：（<a href="cps">链接</a>）  
+长链接转短链接：（<a href="https://nw5.cc">链接</a>）（我直接贴网址好了...） 来自（<a href="https://www.kindyear.cn">链接</a>）    
+关于：（[链接](about)）  
 
 ## PDF区
 
