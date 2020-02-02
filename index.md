@@ -26,6 +26,12 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 
 <p id="demo"></p>
 
+<button onclick="document.getElementById('myImage').src='/i/eg_bulbon.gif'">开灯</button>
+
+<img id="myImage" border="0" src="/i/eg_bulboff.gif" style="text-align:center;">
+
+<button onclick="document.getElementById('myImage').src='/i/eg_bulboff.gif'">关灯</button>
+
 Jekyll我假装不知道是什么东西......
  
  就这样吧
