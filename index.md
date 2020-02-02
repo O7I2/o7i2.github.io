@@ -24,6 +24,8 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 点击这里来显示日期和时间
 </button>
 
+<p id="demo"></p>
+
 Jekyll我假装不知道是什么东西......
  
  就这样吧
