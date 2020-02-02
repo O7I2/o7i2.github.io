@@ -19,6 +19,11 @@ subtitle: CHINQ
 
 2020年1月26日15:01:20...我这个小垃圾把自己的网站做出来了（PS:其实是你@O7I2）
 
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+点击这里来显示日期和时间
+</button>
+
 Jekyll我假装不知道是什么东西......
  
  就这样吧
