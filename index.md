@@ -140,14 +140,4 @@ BiMax的晒鱼厂：定期晒鱼，随缘更新>>><a href="https://www.bbimax.xy
 <div class="boxA translateA">
 <div class="fillA">
 <div id="nb" class="bubble">QAQ滑稽</div>
-## OHHHH
-*当你看到我的时候*
-**我告诉你我还有一个~~网站~~**
-# 赶紧去看！！！
-++[awaCHINQ刷刷爽](CHINQ刷刷爽)++
-```language
-还有，这个网页使用了[awa](tool2.cn的工具)
-```
-
-
 <a class="button" href="#">回到顶部</a>
