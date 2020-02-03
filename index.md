@@ -4,6 +4,22 @@ title: 主页
 subtitle: CHINQ
 ---
 ## 欢迎光临   CHINQ 无名博客
+
+<script>
+var now=(new Date()).getHours();
+if(now>0&&now<=6){
+document.write("经常熬夜对身体不好哟~");
+}else if(now>6&&now<=10){
+document.write("早上心情好 快来看一看~");
+}else if(now>10&&now<=14){
+document.write("停下手中的工作 去吃饭~");
+}else if(now>14&&now<=18){
+document.write("累了一上午了 休息会吧~");
+}else{
+document.write("晚上好 醒来有惊喜哟~");
+}
+</script>
+
 <del>咱也不知道写什么，咱也不敢说</del><br>
 
 <audio src="/assets/audio/123.mp3" controls="" __idm_id__="213856257"></audio>
