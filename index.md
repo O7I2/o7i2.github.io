@@ -20,6 +20,8 @@ document.write("晚上好 醒来有惊喜哟~");
 }
 </script>
 
+<iframe src="https://www.lovestu.com/api/project/cnmapyinqing/obj.php" height="500" frameborder="no" border="0" width="100%"> </iframe>
+
 <del>咱也不知道写什么，咱也不敢说</del><br>
 
 <audio src="/assets/audio/123.mp3" controls="" __idm_id__="213856257"></audio>
