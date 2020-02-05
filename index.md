@@ -20,7 +20,11 @@ document.write("晚上好 醒来有惊喜哟~");
 }
 </script>
 
+<iframe src="https://www.lovestu.com/api/project/cnmapyinqing/obj.php" height="500" frameborder="no" border="0" width="100%"> </iframe>
+
 <del>咱也不知道写什么，咱也不敢说</del><br>
+
+进入每一个页面时，如果出现"主页"脑袋<del>增大</del>，右键自动点击等BUG,请在留言板反馈给我（因为我是不会写代码的菜鸡  
 
 <audio src="/assets/audio/123.mp3" controls="" __idm_id__="213856257"></audio>
 
