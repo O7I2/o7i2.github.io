@@ -8,4 +8,5 @@
 	<li onclick="history.back()">Back</li>
 	<li onclick="showContentMenu()"><strong>Browser Menu</strong></li>
 </ul></div>
-<script src="https://o7i2.github.io/assets/js/menu.js"></script>
+<script src="https://o7i2.github.io/assets/js/menu.js"></script><!-- 至于为什么把CSS直接放在HTML里呢 因为万一外部CSS加载不出来，右键菜单就崩了 -->
+<style>div#menu{position:fixed;z-index:1000;display:none}div.submenu{position:absolute;left:165px;display:none}</style>
